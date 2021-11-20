@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593137009824",
+    "firebase_url": "https://mystatuses-af12e.firebaseio.com",
+    "project_id": "mystatuses-af12e",
+    "storage_bucket": "mystatuses-af12e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593137009824:android:491127312df5bbb79db5c5",
+        "android_client_info": {
+          "package_name": "com.example.mystatuses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593137009824-hki6lsr256qcijanhdp1gm399o964n7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyogLWAjsQjiksZmjIS_yEGzZ8n1ADSpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593137009824-hki6lsr256qcijanhdp1gm399o964n7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
